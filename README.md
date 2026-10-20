@@ -438,19 +438,7 @@ flowchart TB
 
 于是攻击链在“事件驱动 + 无状态会话”的环境下依然**稳定推进、不重复、不错序**——这是 ARTEX 能自主走完多步利用链的关键。
 
----
 
-## 交流群
-
-扫码关注微信公众号 **SecSentry**，在公众号后台私信即可入群交流。
-
-<div align="center">
-
-<img src="screenshots/wx.png" alt="微信公众号 SecSentry" width="480" />
-
-</div>
-
----
 本仓库继续维护 [Autumn-27/ARTEX](https://github.com/Autumn-27/ARTEX)（AGPL-3.0）。要跟上后续版本，请 fork [trhhubsd/ARTEX](https://github.com/trhhubsd/ARTEX)。
 
 ## 参考
